@@ -21,5 +21,6 @@ It might be difficult to determine whether or not a function is convex using the
 
 ### In multi-demension case, the Hessian Matrix is positive semidefinite. ###
 
-For every point x in set S, xT Hx,-2 f (x().
+For every point x in set S, yT
 ![image](https://user-images.githubusercontent.com/88390140/131263324-6617bdd9-0d74-4142-a1c2-7e27c38c5c9f.png)
+y >= 0
