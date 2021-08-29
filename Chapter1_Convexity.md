@@ -28,3 +28,7 @@ y >= 0,   for all vector y
 ## Two ways to determine whether Hessian Matrix is positive semidefinite? : ##
 1. yTHy = a(b X + c Y)^2 >= 0. 
 2. Find the Eigenvalues of H and determine whether each eigenvalue is greater than 0. 
+
+# WHAT IS A SOLUTION: 
+![image](https://user-images.githubusercontent.com/88390140/131263634-197793de-686b-4af6-8bd6-a3df1a7a7499.png)
+
