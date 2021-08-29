@@ -3,9 +3,7 @@ Optimization is an important tool in decision science and in the analysis of phy
 
 To make use of this tool, we must first identify some objective, a quantitative measure of the performance of the system under study. 
 
-The objective depends on certain characteristics of the system, called variables or unknowns. 
-
-Our goal is to find values of the variables that optimize the objective. 
+The objective depends on certain characteristics of the system, called variables or unknowns. Our goal is to find values of the variables that optimize the objective. 
 
 The process of identifying objective, variables, and constraints for a given problem is known as modeling. Construction of an appropriate model is the first step—sometimes the most important step—in the optimization process.
 
