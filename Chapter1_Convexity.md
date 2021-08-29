@@ -25,6 +25,6 @@ For every point x in set S, yT
 ![image](https://user-images.githubusercontent.com/88390140/131263324-6617bdd9-0d74-4142-a1c2-7e27c38c5c9f.png)
 y >= 0,   for all vector y
 
-## Is Hessian Matrix positive semidefinite? : ##
+## Two ways to determine whether Hessian Matrix is positive semidefinite? : ##
 1. yTHy = a(b X + c Y)^2 >= 0. 
 2. Find the Eigenvalues of H and determine whether each eigenvalue is greater than 0. 
