@@ -26,3 +26,5 @@ so that f(a)f(b) < 0
 ![image](https://user-images.githubusercontent.com/88390140/131276552-f931019e-8b4b-4d8a-9024-7576b7728aea.png)
 
 ## Secant Method
+Just like Newton’s method the secant’s method to find the minimum is given by:
+### Example 
