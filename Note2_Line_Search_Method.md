@@ -4,8 +4,9 @@ http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf
 
 # Line Search Method
 In its mathematical form we may write, 
-#
+###
 ![image](https://user-images.githubusercontent.com/88390140/131276691-f573ac2d-ed56-4795-881c-cc7e2529014b.png)
+###
 Assuming that f is smooth and continuous, we find its optimum where its first-derivative is zero, i.e. ∇f(x +
 αd) = 0. All we are doing is trying to find zero of a function (i.e. the point where the curves intersects
 the x−axis). We will visit some known and some newer zero-finding (or root-finding) techniques.
