@@ -19,7 +19,7 @@ A next search interval is chosen by comparing and finding which one
 has zero. This is done by evaluating the sign. The algorithm for this is given as follows: Choose a, b
 so that f(a)f(b) < 0
 ### Example
-![image](https://user-images.githubusercontent.com/88390140/131276423-2a2afcc8-0e2b-4c51-a905-769d985c5b51.png)
+![image](https://user-images.githubusercontent.com/88390140/131277886-6d08f12a-612e-41fe-8db4-fd820ed15db5.png)
 
 ## Newton's Method
 Newton’s method to find the minimum uses the first derivative of the approximation an equalling it to zero. 
@@ -33,7 +33,7 @@ Just like Newton’s method the secant’s method to find the minimum is given b
 #### ![image](https://user-images.githubusercontent.com/88390140/131276891-f0444bcc-17c7-4727-811c-b24b9a1ce4e8.png)
 ### Example 
 ![image](https://user-images.githubusercontent.com/88390140/131276913-cadf5769-89ac-4013-9749-4ce71c826e39.png)
-![image](https://user-images.githubusercontent.com/88390140/131276923-4e80b04a-d0b4-459b-8089-6aae47925501.png)
+![image](https://user-images.githubusercontent.com/88390140/131278001-3d9c2fde-79f8-4f25-bbb3-3b1b6565e4b9.png)
 
 ## Golden Section Method 
 ### Example 
