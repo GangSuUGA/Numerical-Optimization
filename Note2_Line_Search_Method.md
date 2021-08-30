@@ -25,7 +25,7 @@ Newton’s method to find the minimum uses the first derivative of the approxima
 ![image](https://user-images.githubusercontent.com/88390140/131277162-69dc4d0e-2b96-420c-9f95-1224fa2cfe4d.png)
 ### Example
 For a smooth, continuous function when proper starting point is chosen, Newton’s method can be real fast. ![image](https://user-images.githubusercontent.com/88390140/131277481-a7004d75-8efc-4cb2-b205-bf7396555407.png)
-![image](https://user-images.githubusercontent.com/88390140/131277490-5191515c-5fa9-4e41-8c71-dbd262359426.png)
+![image](https://user-images.githubusercontent.com/88390140/131277533-c1c8835f-1b6a-4719-9d94-4740b7e7ecde.png)
 
 ## Secant Method
 Just like Newton’s method the secant’s method to find the minimum is given by:
