@@ -24,8 +24,8 @@ so that f(a)f(b) < 0
 Newton’s method to find the minimum uses the first derivative of the approximation an equalling it to zero. 
 ![image](https://user-images.githubusercontent.com/88390140/131277162-69dc4d0e-2b96-420c-9f95-1224fa2cfe4d.png)
 ### Example
-![image](https://user-images.githubusercontent.com/88390140/131277426-54dde5d5-6656-47e9-aa98-e6c345e2e540.png)
-![image](https://user-images.githubusercontent.com/88390140/131277412-4997f788-34c9-4db3-8072-82db6515d55d.png)
+For a smooth, continuous function when proper starting point is chosen, Newton’s method can be real fast. ![image](https://user-images.githubusercontent.com/88390140/131277481-a7004d75-8efc-4cb2-b205-bf7396555407.png)
+![image](https://user-images.githubusercontent.com/88390140/131277490-5191515c-5fa9-4e41-8c71-dbd262359426.png)
 
 ## Secant Method
 Just like Newton’s method the secant’s method to find the minimum is given by:
