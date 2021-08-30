@@ -1,4 +1,4 @@
-## Reference Link
+## Resources Link
 https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods
 http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf
 
@@ -27,4 +27,14 @@ so that f(a)f(b) < 0
 
 ## Secant Method
 Just like Newton’s method the secant’s method to find the minimum is given by:
+#### ![image](https://user-images.githubusercontent.com/88390140/131276891-f0444bcc-17c7-4727-811c-b24b9a1ce4e8.png)
 ### Example 
+![image](https://user-images.githubusercontent.com/88390140/131276913-cadf5769-89ac-4013-9749-4ce71c826e39.png)
+![image](https://user-images.githubusercontent.com/88390140/131276923-4e80b04a-d0b4-459b-8089-6aae47925501.png)
+
+## Golden Section Method 
+### Example 
+![image](https://user-images.githubusercontent.com/88390140/131276982-5b1a6626-a759-498a-9488-5b469510fad2.png)
+### Another Example 
+![image](https://user-images.githubusercontent.com/88390140/131277023-77176060-cfdd-4fff-ad03-4633711bc41c.png)
+![image](https://user-images.githubusercontent.com/88390140/131277036-e3b8df5d-d01a-48b1-81b8-f83a816fa69c.png)
