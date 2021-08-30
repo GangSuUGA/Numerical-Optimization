@@ -14,7 +14,8 @@ the x−axis). We will visit some known and some newer zero-finding (or root-fin
 
 ## Bisection Method
 In bisection method we reduce begin with an interval so that 0 ∈ [a, b] and divide the interval in two
-halves,i.e. [a, (a+b)/2] and [(a+b)/2 , b]. A next search interval is chosen by comparing and finding which one
+halves,i.e. [a, (a+b)/2] and [(a+b)/2 , b].  
+A next search interval is chosen by comparing and finding which one
 has zero. This is done by evaluating the sign. The algorithm for this is given as follows: Choose a, b
 so that f(a)f(b) < 0
 ### Example
