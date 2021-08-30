@@ -21,9 +21,12 @@ so that f(a)f(b) < 0
 ![image](https://user-images.githubusercontent.com/88390140/131276423-2a2afcc8-0e2b-4c51-a905-769d985c5b51.png)
 
 ## Newton's Method
-![image](https://user-images.githubusercontent.com/88390140/131276512-5ab9af73-f79e-4dc7-a38c-d59072d8fd5b.png)
+Newton’s method to find the minimum uses the first derivative of the approximation an equalling it to zero. 
+![image](https://user-images.githubusercontent.com/88390140/131277162-69dc4d0e-2b96-420c-9f95-1224fa2cfe4d.png)
 ### Example
-![image](https://user-images.githubusercontent.com/88390140/131276552-f931019e-8b4b-4d8a-9024-7576b7728aea.png)
+![image](https://user-images.githubusercontent.com/88390140/131277235-df66aadf-ef1e-4f76-8da9-14fb3c4f75f9.png)
+![image](https://user-images.githubusercontent.com/88390140/131277241-39f72f96-e00b-46eb-940f-60fb40b86c9b.png)
+![image](https://user-images.githubusercontent.com/88390140/131277262-6f5446be-d815-4dcd-8411-2230ce88cd1f.png)
 
 ## Secant Method
 Just like Newton’s method the secant’s method to find the minimum is given by:
