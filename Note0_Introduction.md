@@ -1,4 +1,4 @@
-# Chapter0_Introduction
+# Note0_Introduction
 Optimization is an important tool in decision science and in the analysis of physical systems. Optimization model attempts to express, in mathematical terms, the goal of solving a problem in the "best" way. 
 
 To make use of this tool, we must first identify some objective, a quantitative measure of the performance of the system under study. 
