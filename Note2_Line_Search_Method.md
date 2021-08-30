@@ -25,7 +25,7 @@ Newton’s method to find the minimum uses the first derivative of the approxima
 ![image](https://user-images.githubusercontent.com/88390140/131277162-69dc4d0e-2b96-420c-9f95-1224fa2cfe4d.png)
 ### Example
 ![image](https://user-images.githubusercontent.com/88390140/131277235-df66aadf-ef1e-4f76-8da9-14fb3c4f75f9.png)
-![image](https://user-images.githubusercontent.com/88390140/131277241-39f72f96-e00b-46eb-940f-60fb40b86c9b.png)
+![image](https://user-images.githubusercontent.com/88390140/131277293-16b7656b-77cb-41e4-91e8-890b91b87490.png)
 ![image](https://user-images.githubusercontent.com/88390140/131277262-6f5446be-d815-4dcd-8411-2230ce88cd1f.png)
 
 ## Secant Method
