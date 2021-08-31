@@ -9,9 +9,7 @@ Root-footing: http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf
     
     (1) If xk is optimal, stop.
     
-    (2) Determine a search direction a.
-    
-    (3) Determine a step length d that leads to an improved estimate of the solution: x_k+1 = x_k + ad. 
+    (2) Determine xk+1, a new estimate of the solution.
     
 In its mathematical form we may write, 
 ####
