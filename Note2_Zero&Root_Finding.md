@@ -1,9 +1,11 @@
 ## References Link   
-Root-footing: http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf 
+#### Root-footing: http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf 
+___________________________________________________________________________________________________________________________________________________________________________________
+
 
 # Zero/Root Finding
 
-### General Optimization Algorithm:
+## General Optimization Algorithm:
 1. Specify some initial guess of the solution x0.
 2. For k = 0, 1, ...
     
