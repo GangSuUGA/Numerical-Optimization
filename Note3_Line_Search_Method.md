@@ -1,11 +1,12 @@
 ## References Link
-Line Search Method: https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods     
-Root-footing: http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf     
-Convergence of Algorithms: https://caam37830.github.io/book/01_analysis/convergence.html#:~:text=Many%20numerical%20algorithms%20converge%20to%20a%20solution%2C%20meaning,k%20%E2%86%92%20%E2%88%9E%20%CF%B5%20k%20%3D%200%20%24      
-Algorithms and their convergence: http://macs.citadel.edu/chenm/343.dir/11.dir/lect1_3.pdf      
+#### Line Search Method: https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods     
+#### Convergence of Algorithms: https://caam37830.github.io/book/01_analysis/convergence.html#:~:text=Many%20numerical%20algorithms%20converge%20to%20a%20solution%2C%20meaning,k%20%E2%86%92%20%E2%88%9E%20%CF%B5%20k%20%3D%200%20%24      
+#### Algorithms and their convergence: http://macs.citadel.edu/chenm/343.dir/11.dir/lect1_3.pdf      
+___________________________________________________________________________________________________________________________________________________________________________________
+
 
 # Line Search Method
-### General Algorithm:
+## General Algorithm:
 1. Specify some initial guess of the solution x0.
 2. For k = 0, 1, ...
     
