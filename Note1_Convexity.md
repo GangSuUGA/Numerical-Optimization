@@ -20,9 +20,9 @@ Let x* be a local minimizer of a convex optimization. Then, x* is also a global 
 ## Determine Convexity:
 It might be difficult to determine whether or not a function is convex using the definition. For a 1-D function f that has two contrinuous derivatives, there is an easier way:
 
-### The function f is convex if f''(x) > 0, for all x in set S. ###
+#### The function f is convex if f''(x) > 0, for all x in set S. ###
 
-### In multi-demension case, the Hessian Matrix is positive semidefinite. ###
+#### In multi-demension case, the Hessian Matrix is positive semidefinite. ###
 
 For every point x in set S, yT
 ![image](https://user-images.githubusercontent.com/88390140/131263324-6617bdd9-0d74-4142-a1c2-7e27c38c5c9f.png)
