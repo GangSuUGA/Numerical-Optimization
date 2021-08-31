@@ -1,5 +1,23 @@
 # Zero/Root Finding
 
+### General Optimization Algorithm:
+1. Specify some initial guess of the solution x0.
+2. For k = 0, 1, ...
+    
+    (1) If xk is optimal, stop.
+    
+    (2) Determine a search direction a.
+    
+    (3) Determine a step length d that leads to an improved estimate of the solution: x_k+1 = x_k + ad. 
+    
+In its mathematical form we may write, 
+####
+![image](https://user-images.githubusercontent.com/88390140/131276691-f573ac2d-ed56-4795-881c-cc7e2529014b.png)
+####
+Assuming that f is smooth and continuous, we find its optimum where its first-derivative is zero, i.e. ∇f(x +
+αd) = 0. All we are doing is trying to find zero of a function (i.e. the point where the curves intersects
+the x−axis). We will visit some known and some newer zero-finding (or root-finding) techniques. 
+
 ## Bisection Method
 In bisection method we reduce begin with an interval so that 0 ∈ [a, b] and divide the interval in two
 halves,i.e. [a, (a+b)/2] and [(a+b)/2 , b].  
