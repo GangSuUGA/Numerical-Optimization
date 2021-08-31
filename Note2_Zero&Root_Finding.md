@@ -1,5 +1,4 @@
-## References Link
-Line Search Method: https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods     
+## References Link   
 Root-footing: http://www.cas.mcmaster.ca/~cs4te3/notes/LineSearchMethods.pdf 
 
 # Zero/Root Finding
