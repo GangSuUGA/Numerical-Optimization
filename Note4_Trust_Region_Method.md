@@ -3,7 +3,9 @@
 
 
 
-
+ 
+ -  Trust Region Method:          
+![image](https://user-images.githubusercontent.com/88390140/131764954-f47d418f-e82e-4479-90af-1449da1302fd.png)
 
 
 
