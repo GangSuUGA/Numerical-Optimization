@@ -14,18 +14,22 @@ Here will introduce two Fundemental Strategies, **Line Search Method** and **Tru
     (1) If x_k is optimal, stop.     
     (2) Determine x_k+1, a search direction p_k       
     (3) Determine a step length a_k, then ![image](https://user-images.githubusercontent.com/88390140/131768255-27daccad-65f5-40dc-83fa-bf92ac37d32d.png) 
-    
+       
+       
+#### Each iteration of a line search method computes a search direction p_k and then decides how far to move along that direction.    
+      
+ ## Mathematical form:        
+ -  Line Search Method:      
+![image](https://user-images.githubusercontent.com/88390140/131764100-aa19cf9f-3a73-48bd-a747-3e5b06418faa.png)      
+     
 Note p_k is a **descent direction**:      
-![image](https://user-images.githubusercontent.com/88390140/131768167-7091d28c-3bea-454e-9e5f-fe4a9f1caec8.png), which will guarantees that f can be reduced along p_k.       
+![image](https://user-images.githubusercontent.com/88390140/131768167-7091d28c-3bea-454e-9e5f-fe4a9f1caec8.png), which will guarantees that f can be reduced along p_k.    
+       
 **Proof:**      
-(1) The inner product (dot) greater than 0 means the angle between two vector is less than 90 degree.      
+(1) The inner product (dot) greater than 0 means the angle between two vector is less than 90 degree. So, the solution will move in the first-derivative direction approaximately.      
 (2) From the perspective of taylor's eries in matrix form:        
 f(x_k+1) = f(x_k + a_k * p_k) ~= f(x_k) + a_k * ![image](https://user-images.githubusercontent.com/88390140/131769443-ad54a67f-37d9-4c88-9934-87facce87795.png) + ......            
-Given a_k >= 0, so if we want f(x_k+1) < f(x_k), ![image](https://user-images.githubusercontent.com/88390140/131768167-7091d28c-3bea-454e-9e5f-fe4a9f1caec8.png) must be satisfy. This completes the proof. 
-
-## Mathematical form:        
- -  Line Search Method:      
-![image](https://user-images.githubusercontent.com/88390140/131764100-aa19cf9f-3a73-48bd-a747-3e5b06418faa.png)     
+Given a_k >= 0, so if we want f(x_k+1) < f(x_k), ![image](https://user-images.githubusercontent.com/88390140/131768167-7091d28c-3bea-454e-9e5f-fe4a9f1caec8.png) must be satisfy. This completes the proof.  
 
 
 ## Rates of Convergence 
