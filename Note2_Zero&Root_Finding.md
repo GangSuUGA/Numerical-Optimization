@@ -11,17 +11,11 @@ Assuming already explictly known what f is and that f is smooth and continuous, 
 the x−axis). We will visit some known **zero-finding (or root-finding)** techniques when the root equation is not easily to solve. 
 
 ## General Optimization Algorithm:
-1. Specify some initial guess of the solution x0.
-2. For k = 0, 1, ...
-    
-    (1) If xk is optimal, stop.
-    
-    (2) Determine xk+1, a new estimate of the solution.
-    
-In its mathematical form we may write, 
-####
-![image](https://user-images.githubusercontent.com/88390140/131276691-f573ac2d-ed56-4795-881c-cc7e2529014b.png)
-####
+1. Specify some initial guess of the solution x0.    
+2. For k = 0, 1, ...      
+    (1) If xk is optimal, stop.     
+    (2) Determine xk+1, a new estimate of the solution.     
+
 
 ## Bisection Method
 In bisection method we reduce begin with an interval so that 0 ∈ [a, b] and divide the interval in two
