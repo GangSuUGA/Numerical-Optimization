@@ -19,7 +19,7 @@ In its mathematical form we may write,
 ####
 Assuming already explictly known what f is and that f is smooth and continuous, all we need to do is to find its optimum where its first-derivative is zero, i.e. ∇f(x +
 αd) = 0. In other words, we are trying to find zero of the derivative function (i.e. the point where the curves intersects
-the x−axis). We will visit some known zero-finding (or root-finding) techniques. 
+the x−axis). We will visit some known zero-finding (or root-finding) techniques when the root equation is not easily to solve. 
 
 ## Bisection Method
 In bisection method we reduce begin with an interval so that 0 ∈ [a, b] and divide the interval in two
