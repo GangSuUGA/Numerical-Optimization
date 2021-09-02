@@ -35,9 +35,3 @@ Note p_k is a **descent direction**. And the properity is:
  - Given a_k >= 0, so if we want f(x_k+1) < f(x_k), ![image](https://user-images.githubusercontent.com/88390140/131768167-7091d28c-3bea-454e-9e5f-fe4a9f1caec8.png) must be satisfy. This completes the proof.  
 
 
-## Rates of Convergence 
-Many of the algorithms do not find a solution in a finite number of steps. 
-When discussing such an algorithm, the following two questions are often asked:
-1. Does it converge?
-2. How fast does it converge? *Focus*
-
