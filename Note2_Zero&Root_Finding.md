@@ -5,6 +5,11 @@ ________________________________________________________________________________
 
 # Zero/Root Finding
 
+## Background     
+Assuming already explictly known what f is and that f is smooth and continuous, all we need to do is to find its optimum where its first-derivative is zero, i.e. ∇f(x +
+αd) = 0. In other words, we are trying to find zero of the derivative function (i.e. the point where the curves intersects
+the x−axis). We will visit some known **zero-finding (or root-finding)** techniques when the root equation is not easily to solve. 
+
 ## General Optimization Algorithm:
 1. Specify some initial guess of the solution x0.
 2. For k = 0, 1, ...
@@ -17,9 +22,6 @@ In its mathematical form we may write,
 ####
 ![image](https://user-images.githubusercontent.com/88390140/131276691-f573ac2d-ed56-4795-881c-cc7e2529014b.png)
 ####
-Assuming already explictly known what f is and that f is smooth and continuous, all we need to do is to find its optimum where its first-derivative is zero, i.e. ∇f(x +
-αd) = 0. In other words, we are trying to find zero of the derivative function (i.e. the point where the curves intersects
-the x−axis). We will visit some known **zero-finding (or root-finding)** techniques when the root equation is not easily to solve. 
 
 ## Bisection Method
 In bisection method we reduce begin with an interval so that 0 ∈ [a, b] and divide the interval in two
