@@ -6,8 +6,7 @@ ________________________________________________________________________________
 # Zero/Root Finding
 
 ## Background     
-Assuming already explictly known what f is and that f is smooth and continuous, all we need to do is to find its optimum where its first-derivative is zero, i.e. ∇f(x +
-αd) = 0. In other words, we are trying to find zero of the derivative function (i.e. the point where the curves intersects
+Assuming already explictly known what f is and that f is smooth and continuous, all we need to do is to find its optimum where its first-derivative is zero, i.e. ∇f(x) = 0. In other words, we are trying to find zero of the derivative function (i.e. the point where the curves intersects
 the x−axis). We will visit some known **zero-finding (or root-finding)** techniques when the root equation is not easily to solve. 
 
 ## General Optimization Algorithm:
