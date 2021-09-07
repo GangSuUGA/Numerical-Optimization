@@ -1,6 +1,7 @@
 ## Resources Link
- - [**Line Search Methods 1**](https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods)  
- - [**Line search Methods 2**](https://sites.math.washington.edu/~burke/crs/408/notes/nlp/line.pdf)
+ - [**Line Search Methods (Wiki)** ](https://optimization.mccormick.northwestern.edu/index.php/Line_search_methods)  
+ - [**Nonlinear Programming Note (University of Washington)**](https://sites.math.washington.edu/~burke/crs/408/notes/nlp/line.pdf)
+ - [**Numerical Analysis Course** (Convergence of the Newton Method and Modified Newton Method)](http://macs.citadel.edu/chenm/343.dir/11.dir/lect2_4.pdf)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 **Sometime, problem is so complex that made function/formula cannot be expressed generally and explicitly. Previous method, which find the first-derivative equal to 0, can not work.**   
