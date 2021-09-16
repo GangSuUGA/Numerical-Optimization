@@ -4,8 +4,7 @@
 ______________________________________
 
  - Quasi-Newton Methods, like steepest descent, require only the gradient of the objective function to be supplied at each iterate. 
- - By measuring the changes in gradients, W.C. Davidon construct a model of the objective function that is good enough to produce superlinear convergence. 
-In other words, they construct **an approximation B_k to the Hessian Matrix**.      
+ - By measuring the changes in gradients, W.C. Davidon construct a model of the objective function (**an approximation B_k to the Hessian Matrix**) that is good enough to produce superlinear convergence.        
  - Moreover, since second derivatives are not required, quasi-Newton methods are sometimes more efficient than Newton's method. 
  - Today, optimization software libraries contain a veriety of quasi-Newton algorithm for solving unconstrained, constrained and large-scale optimization problems. 
 
