@@ -23,4 +23,28 @@ ______________________________________
 - **BFGS**
 - SR1
 
+## DFP: 
+
+![image](https://user-images.githubusercontent.com/88390140/133534014-0c198c04-045a-43cb-b411-c49f91f47bd9.png)
+![image](https://user-images.githubusercontent.com/88390140/133534036-0ab1a3cc-dbf0-490d-b2f7-36ad39b185c3.png)      
+![image](https://user-images.githubusercontent.com/88390140/133534113-536e4327-71ad-403e-9d9c-f1ad3034ddd6.png)
+
+Instead of recomputing the approximate Hessians from scratch at every iteration, we apply a simple modification that combines the most recently observed information about the objective function with the existing knowledge embedded in our current Hessian approximation.       
+
+## **BFGS**: 
+Remark: With an adequate line search (e.g., wolfe conditions), BFGS has effective self-correcting properties (but DFP is not so effective).    
+More effiective of all quasi-Newton updating formula, BFGS, can be derived by making a simple change in the DFP formula.        
+**Instead of imposing conditions on the Hessian approximations B_k, we impose similar conditions on the inverses H_k (Note: Not Hessian).**   
+![image](https://user-images.githubusercontent.com/88390140/133534724-b915a1bb-3c0b-4afb-a8fb-2f507bae2240.png)
+![image](https://user-images.githubusercontent.com/88390140/133534737-3c8346bc-9f58-4d31-b9d0-5c59a972c277.png)
+
+
+![image](https://user-images.githubusercontent.com/88390140/133534999-af6a091c-5d6d-43bd-8a4b-1f2aefb1dd50.png)
+![image](https://user-images.githubusercontent.com/88390140/133535015-31fd09b4-599d-4fcc-8aef-290014716cd2.png)
+![image](https://user-images.githubusercontent.com/88390140/133535296-f53edda9-9764-4009-b413-ff1d36a0c848.png)
+
+## SR1: 
+
+
+
 
