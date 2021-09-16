@@ -19,3 +19,9 @@ In other words, they construct **an approximation B_k to the Hessian Matrix**.
 ## Key Point: 
 ![image](https://user-images.githubusercontent.com/88390140/133532650-91dd26a1-43bd-421d-92ec-526d72b499d5.png)
 
+## Three Popular Methods to solve B_k: 
+- DFP
+- **BFGS**
+- SR1
+
+
